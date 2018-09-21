@@ -1,6 +1,6 @@
 # 운동 데이터를 AWS 클라우드 서버에 저장 / 불러오기 (c#, php)이용
 
-CalorieManager.cs 는 운동정보를 서버에 업데이트 시키는 cs 문서. /t
+CalorieManager.cs 는 운동정보를 서버에 업데이트 시키는 cs 문서. <br>
 CreateID.cs 는 회원가입 정보를 서버에 저장시키는 cs문서.
 DBManager.cs 는 서버에서 운동정보를 불러와서 날짜와 그래프 데이터를 표기 해주는 cs문서.
 Login.cs 는 서버에 로그인 요청을 하고 정보를 비교하여 접속하게 해주는 cs문서.
