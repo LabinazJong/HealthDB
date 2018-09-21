@@ -26,7 +26,7 @@ public class CalorieManager : MonoBehaviour
     public float fat = 0;
     public bool datapass;
 
-    const float kcalPerSec = 0.07583f; // 몸무게 : 60kg, 자전거무게 : 10kg, 평균속도 12.9km/h 기준 (에버노트 자전거 칼로리표 참조)
+    const float kcalPerSec = 0.07583f; // 몸무게 : 60kg, 자전거무게 : 10kg, 평균속도 12.9km/h 기준 
 
     void Awake()
     {
